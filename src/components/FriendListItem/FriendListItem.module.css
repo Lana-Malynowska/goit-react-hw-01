@@ -1,0 +1,19 @@
+.friend {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #000000;
+  border-radius: 8px;
+  align-items: center;
+  padding: 16px;
+  gap: 16px;
+  width: calc(100% / 5);
+}
+
+.name {
+  /* font-size: 28px; */
+  font-weight: bold;
+}
+
+.status {
+  /* font-size: 18px; */
+}
